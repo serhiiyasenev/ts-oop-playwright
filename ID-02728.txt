@@ -1,0 +1,9 @@
+Driver License:
+  ID: ID-02728
+  Name: John Doe
+  Address: 123 Main St
+  Date of Birth: 01-01-1990
+  Issue Date: 01-01-2022
+  Expiry Date: 01-01-2032
+  License Number: DL-987654321
+  Is Valid: true

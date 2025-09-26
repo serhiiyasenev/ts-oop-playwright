@@ -1,0 +1,1 @@
+{"version":3,"file":"Employee.d.ts","sourceRoot":"","sources":["../../src/models/Employee.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAC;AAElC,qBAAa,QAAS,SAAQ,MAAM;IAIhC,OAAO,CAAC,QAAQ;gBAFhB,IAAI,EAAE,MAAM,EACZ,GAAG,EAAE,MAAM,EACH,QAAQ,EAAE,MAAM;IAKnB,OAAO,IAAI,MAAM;CAGzB"}
