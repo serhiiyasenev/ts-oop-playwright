@@ -1,1 +1,0 @@
-{"version":3,"file":"Person.d.ts","sourceRoot":"","sources":["../../src/models/Person.ts"],"names":[],"mappings":"AAAA,8BAAsB,MAAM;IAExB,OAAO,CAAC,IAAI;IACZ,OAAO,CAAC,GAAG;gBADH,IAAI,EAAE,MAAM,EACZ,GAAG,EAAE,MAAM;IAGd,OAAO,IAAI,MAAM;IAIjB,MAAM,IAAI,MAAM;aAIP,OAAO,IAAI,MAAM;CAClC"}
